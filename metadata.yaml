@@ -1,0 +1,30 @@
+_repo: Laurier--A-Study-in-Canadian-Politics_15509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dafoe, John Wesley
+    alias: Dafoe, John W.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '6097'
+    url: http://www.gutenberg.org/2009/agents/6097
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Dafoe
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2005-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Laurier, Wilfrid, Sir, 1841-1919'
+- !lcsh 'Canada -- Politics and government -- 1867-'
+- !lcc 'F1001'
+title: 'Laurier: A Study in Canadian Politics'
+url: http://www.gutenberg.org/ebooks/15509
